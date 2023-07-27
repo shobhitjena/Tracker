@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tracker/static/css/main.e9f44403.css",
+    "main.js": "/Tracker/static/js/main.93aec1e4.js",
+    "index.html": "/Tracker/index.html",
+    "main.e9f44403.css.map": "/Tracker/static/css/main.e9f44403.css.map",
+    "main.93aec1e4.js.map": "/Tracker/static/js/main.93aec1e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9f44403.css",
+    "static/js/main.93aec1e4.js"
+  ]
+}
